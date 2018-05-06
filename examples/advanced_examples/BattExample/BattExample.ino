@@ -6,7 +6,7 @@
  *	Brought to you by MicaelJarniac
  *	Contact me at micaeljarniac@gmail.com
  *	v0002
- *	May 05, 2018
+ *	May 06, 2018
  */
 
 #include <VoltageReference.h> //Including VoltageReference library
